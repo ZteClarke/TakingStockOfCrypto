@@ -12,4 +12,4 @@ The following questions lead my analysis:
    - What are the best cryptocurrency stocks for each investment strategy?
    - If someone had 1000 dollars to invest in cryptocurrency what are the best stocks to purchase?
 
-This project was completed using Python, Tableau, and PowerPoint. 
+This project was completed using Python, Tableau, Excel and PowerPoint. 
